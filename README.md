@@ -22,7 +22,7 @@ turtle.Screen().exitonclick()
 ```
 > Resultado do código acima, desenhando um triângulo:
 
-![image](./imagem/Triangulo.gif)
+![image](https://github.com/Jakson-Alves/Fractal/blob/main/Imagem/Triangulo.gif)
 
 ## 2. Criando um Estrela turtle:
 
