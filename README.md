@@ -47,7 +47,7 @@ turtle.Screen().exitonclick()
 ```
 > Resultado do código acima, desenhando uma estrela vermelha:
 
-![image](./imagem/Estrela.gif)
+![image](https://github.com/Jakson-Alves/Fractal/blob/main/Imagem/Estrela.gif)
 
 ## 3. Criando uma Espiral Quadrada turtle:
 
@@ -72,7 +72,7 @@ turtle.Screen().exitonclick()
 ```
 > Resultado do código acima, desenhando uma Espiral Quadrada:
 
-![image](./imagem/Espiral_quadrada.gif)
+![image](https://github.com/Jakson-Alves/Fractal/blob/main/Imagem/Espiral_quadrada.gif)
 
 ## 4. Criando um Floco de Neve usando turtle:
 
@@ -130,7 +130,7 @@ screen.exitonclick()
 ```
 > Resultado do código acima, desenhando uma Floco de Neve :
 
-![image](./imagem/Floco_de_neve.gif)
+![image](https://github.com/Jakson-Alves/Fractal/blob/main/Imagem/Floco_de_neve.gif)
 
 ## 5. Criando uma Árvore turtle:
 
@@ -170,7 +170,7 @@ turtle.done()
 ```
 > Resultado do código acima, desenhando uma Árvore:
 
-![image](./imagem/Arvore.gif)
+![image](https://github.com/Jakson-Alves/Fractal/blob/main/Imagem/Arvore.gif)
 
 ## 6. Criando meu Fractal de floco:
 
@@ -228,4 +228,4 @@ screen.exitonclick()
 ```
 > Resultado do código acima, desenhando meu Fractal de floco:
 
-![image](./imagem/Meu_Fractal2.gif)
+![image](https://github.com/Jakson-Alves/Fractal/blob/main/Imagem/Meu_Fractal2.gif)
